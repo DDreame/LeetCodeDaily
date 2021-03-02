@@ -1,4 +1,4 @@
-package week2;
+package week230;
 
 /**
  * 此题未完成
