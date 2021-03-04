@@ -38,5 +38,17 @@
 题目标签:`位运算` `动态规划`  
 
 总结：对于位运算的思路还是很差劲，想到了逐位去计算1的数量，但是委实太笨，不想下手。受人提醒后百度搜索了`poptcount`，才在CSDN的帮助下完成了这个答案。
-附一个链接：[CSDN博客](https://blog.csdn.net/weixin_30808253/article/details/99587388)。
+附一个链接： [CSDN博客](https://blog.csdn.net/weixin_30808253/article/details/99587388) 。
 另外官方题解也很棒，可以看看官方题解的四种解法。
+
+## 3月4日 俄罗斯套娃信封问题
+
+[timulianj](https://leetcode-cn.com/problems/russian-doll-envelopes/)
+
+题目难度:`Hard`
+
+题目标签：`二分查找` `动态规划`
+
+总结：首先在没有题解的情况下可以认为我今天是无法签到的，这个题哪怕收到了提示，也对我来说有一定的难度（特别是动手上）。  
+`排序之后用个数据结构维护一下即可`可以说提示的很明显了，`经典数据结构维护dp`,`dpi表示宽度为i最多为i的能装多少`。  
+这里推荐[宫水三叶的题解](https://leetcode-cn.com/problems/russian-doll-envelopes/solution/zui-chang-shang-sheng-zi-xu-lie-bian-xin-6s8d/) .
