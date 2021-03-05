@@ -43,7 +43,7 @@
 
 ## 3月4日 俄罗斯套娃信封问题
 
-[timulianj](https://leetcode-cn.com/problems/russian-doll-envelopes/)
+[题目链接](https://leetcode-cn.com/problems/russian-doll-envelopes/)
 
 题目难度:`Hard`
 
@@ -52,3 +52,13 @@
 总结：首先在没有题解的情况下可以认为我今天是无法签到的，这个题哪怕收到了提示，也对我来说有一定的难度（特别是动手上）。  
 `排序之后用个数据结构维护一下即可`可以说提示的很明显了，`经典数据结构维护dp`,`dpi表示宽度为i最多为i的能装多少`。  
 这里推荐[宫水三叶的题解](https://leetcode-cn.com/problems/russian-doll-envelopes/solution/zui-chang-shang-sheng-zi-xu-lie-bian-xin-6s8d/) .
+
+## 3月5日 用栈实现队列
+
+[题目链接](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+
+题目难度:`Easy`
+
+题目标签:`栈` `设计`
+
+总结：感觉是签到题了，难度并不大。
