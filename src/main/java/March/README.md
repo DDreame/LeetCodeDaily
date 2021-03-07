@@ -73,3 +73,13 @@
 
 总结：看到标签以后很快想到了，但是依然不可避免的跑偏。应该使用单调栈，搞清楚为什么是单调栈。
 
+## 3月7日 分割回文串
+
+[题目链接](https://leetcode-cn.com/problems/palindrome-partitioning/)
+
+题目难度：`Medium`
+
+题目标签: `动态规划` `深度优先搜索` `回溯算法`
+
+总结：又是不看题解做不出来的一天。很难受，在考虑开新的包给特定算法题，来提高自己的能力了。[参考题解](https://leetcode-cn.com/problems/palindrome-partitioning/solution/wei-sha-yao-zhe-yang-bao-sou-ya-shi-ru-h-41gf/)
+
