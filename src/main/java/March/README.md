@@ -83,3 +83,23 @@
 
 总结：又是不看题解做不出来的一天。很难受，在考虑开新的包给特定算法题，来提高自己的能力了。[参考题解](https://leetcode-cn.com/problems/palindrome-partitioning/solution/wei-sha-yao-zhe-yang-bao-sou-ya-shi-ru-h-41gf/)
 
+## 3月8日 分割回文串II
+
+[题目链接]()
+
+题目难度:`Hard`
+
+题目标签:`动态规划`
+
+总结：其实在有昨天题解的情况下，今天题难度是被降低了的，从Hard往下掉到了Medium，但是如何处理这个回文数组依然是一个难题，依然需要DP。
+
+## 3月9日 删除字符串中的所有相邻重复项
+
+[题目链接](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
+
+题目难度:`Easy`
+
+题目标签：`栈`
+
+总结：用栈压进压出就行了，知道用栈或者队列的话是非常简单的一道题。但是并没有完，运行结果非常差，虽然可以AC，但是接近垫底。  
+从提交记录来大概有三种情况，使用`StringBuilder`，使用原生的`Stack`or`Deque`，使用哨兵。最优情况是使用哨兵。我也将方法放在Solution9里面了。
