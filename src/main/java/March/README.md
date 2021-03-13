@@ -123,3 +123,23 @@
 题目标签:`栈`
 
 总结：这，，基本没什么说的，处理优先级，然后处理一下弹出部分即可。
+
+## 3月12日 
+
+[题目链接](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+
+题目难度:`Medium`
+
+题目标签:`栈`
+
+总结:是用二叉树概念来解决的问题，我可以说并没有非常理解，此题应该重新做。详见[宫水三叶的题解](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/solution/xiang-xin-ke-xue-xi-lie-xiang-jie-zhi-gu-e3y9/)
+
+## 3月13日 设计哈希集合
+
+[题目链接](https://leetcode-cn.com/problems/design-hashset/)
+
+题目难度：`Easy`
+
+题目标签:`设计` `HashTable`
+
+总结：这题最暴力的情况下直接设定大于数据范围的int数组或者boolean数组，便可以直接hash。但是题解采用了更好的办法，详见[宫水三叶的题解](https://leetcode-cn.com/problems/design-hashset/solution/yi-ti-san-jie-jian-dan-shu-zu-lian-biao-nj3dg/)
