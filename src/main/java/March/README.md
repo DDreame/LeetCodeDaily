@@ -173,3 +173,13 @@
 题目标签：`数组`
 
 总结：基本同上一道题
+
+## 3月17日 不同的子序列
+
+[题目链接](https://leetcode-cn.com/problems/distinct-subsequences/)  
+
+题目难度：`Hard`  
+
+题目标签：`动态规划` `字符串`  
+
+总结：没搞懂，自觉的切换了进度。
